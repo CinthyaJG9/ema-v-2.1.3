@@ -11,9 +11,10 @@ const Developers: FC = () => {
       strings: [
         'Astudillo Perez Edwin Uriel',
         'Freyre Valderrama Aarón',
-        'Garcia Acosta Sergio Adrian',
-        'Guzmán Gutierez Alan Joseph',
-        'Jimenez García Cinthya Fernanda',
+        'García Acosta Sergio Adrian',
+        'Gómez Santiago Eduardo',
+        'Guzmán Gutiérrez Alan Joseph',
+        'Jiménez García Cinthya Fernanda',
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -31,7 +32,7 @@ const Developers: FC = () => {
       <Box className='flex flex-col gap-8 md:flex-row md:items-center md:gap-20'>
         <Box>
           <p className='block font-mono '>
-            Dessarolladores: <span ref={el}></span>
+            Desarolladores: <span ref={el}></span>
           </p>
         </Box>
       </Box>
