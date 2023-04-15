@@ -12,15 +12,12 @@ const Developers: FC = () => {
         'Astudillo Perez Edwin Uriel',
         'Freyre Valderrama Aarón',
         'García Acosta Sergio Adrian',
-<<<<<<< HEAD
         'Guzmán Gutiérrez Alan Joseph',
         'Gómez Santiago Eduardo',
         'Jimenez García Cinthya Fernanda',
-=======
         'Gómez Santiago Eduardo',
         'Guzmán Gutiérrez Alan Joseph',
         'Jiménez García Cinthya Fernanda',
->>>>>>> 23c29ef3e7a3b0e98707a7750ba87079f83f48fd
       ],
       typeSpeed: 50,
       backSpeed: 50,
